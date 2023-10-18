@@ -1,7 +1,9 @@
 
 Software Requirements Specification
+
 for
 <Web Smart Parking System Berbasis IoT>
+
 Version 1.0 approved
 Prepared by 
 < 22091397076 - Albiona Qalbu Shoukhi >
@@ -13,8 +15,10 @@ D4 Manajemen Informatika 2022 C
 < 09 September 2023 > 
 
 1.	Pendahuluan
+
 1.1	Tujuan Penulisan Dokumen
 Dokumen ini bertujuan untuk menyediakan spesifikasi persyaratan web yang lebih rinci untuk proyek Smart Parking System. Tujuan utamanya adalah untuk mengidentifikasi dan menjelaskan persyaratan fungsional dan nonfungsional yang harus dipenuhi oleh sistem.
+
 1.2	Konvensi Dokumen
 Konvensi Dokumen diisi dengan istilah dan singkatan yang akan digunakan pada dokumen ini, dan pengertiannya akan dijelaskan dengan bahasa yang sederhana dan bisa dimengerti oleh client.
 
