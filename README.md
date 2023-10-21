@@ -24,27 +24,48 @@ Dokumen ini bertujuan untuk menyediakan spesifikasi persyaratan web yang lebih r
 Konvensi Dokumen diisi dengan istilah dan singkatan yang akan digunakan pada dokumen ini, dan pengertiannya akan dijelaskan dengan bahasa yang sederhana dan bisa dimengerti oleh client.
 
 •	IoT : IoT atau Internet of Things adalah sebuah konsep di mana berbagai perangkat bersensor saling terhubung melalui internet untuk mengumpulkan dan mentransfer data.
+
 •	TensorFlow : sebuah framework berbasis Python yang digunakan di pembelajaran mesin untuk mengembangkan dan membuat neural netwrok.
+
 •	Framework : . Framework ini adalah open-source, dan bisa digunakan untuk beragam tugas yang bervariasi selain untuk membangun neural network.
+
 •	HTML :
+
 •	CSS :
+
 •	JavaScript :
+
 •	Scikit-learn : Scikit-learn dianggap sebagai salah satu library bahasa pemerograman terbaik untuk bekerja dengan data yang kompleks.
+
 •	Machine Learning : teknologi yang dikembangkan untuk mengadopsi kemampuan belajar manusia pada komputer.
+
 •	Raspberry Pi : sebuah komputer papan tunggal (single-board computer) atau SBC seukuran kartu kredit yang dapat digunakan untuk menjalankan program perkantoran, permainan komputer, dan sebagai pemutar media hingga video beresolusi tinggi.
+
 •	Linux-based OS : sistem operasi yang menggunakan kernel Linux sebagai inti dan disertakan aplikasi dan module pendukung lain agar berfungsi dan bisa digunakan secara utuh layaknya sistem operasi pada umumnya.
 •	Router dan switch : Router dan switch adalah perangkat jaringan yang digunakan untuk menghubungkan beberapa perangkat dalam jaringan komputer.
+
 •	Server : sistem komputer yang memberikan fasilitas berupa sumber daya untuk pusat penyimpanan data dan juga layanan khusus.
+
 •	Database : kumpulan data yang terorganisir dan saling terhubung sehingga dapat diakses dengan mudah.
+
 •	Hardware : komponen fisik pada komputer yang berfungsi untuk melakukan proses input, proses, dan output.
+
 •	Software : program atau aplikasi yang diinstal pada perangkat keras.
+
 •	Arduino : platform elektronik open-source yang digunakan untuk membuat berbagai jenis proyek dan perangkat elektronik, seperti robot, sistem kendali otomatis, dan alat ukur.
+
 •	Mikrokontroler/SBC : Mikrokontroler atau SBC (Single Board Computer) adalah sebuah komputer kecil yang terdiri dari satu papan sirkuit yang memuat semua komponen yang dibutuhkan untuk menjalankan sistem operasi dan aplikasi.
+
 1.3	Audien yang Dituju dan Pembaca yang Disarankan
+
 Dokumen ini ditujukan untuk pengembang web, manajer proyek, pengguna, dan pihak terkait lainnya yang terlibat dalam pengembangan dan penggunaan Smart Parking System. Disarankan untuk membaca dokumen ini secara keseluruhan untuk memahami persyaratan sistem secara menyeluruh.
+
 1.4	Lingkup Produk
+
 •	Deskripsi Umum :
+
 o	Proyek ini bertujuan untuk mengembangkan sebuah sistem parkir pintar yang memanfaatkan teknologi IoT, Machine Learning, dan Webcam untuk meningkatkan efisiensi dan pengelolaan parkir.
+
 o	Sistem ini akan memantau dan mengelola tempat parkir secara real-time, memberikan informasi tentang ketersediaan tempat parkir kepada pengguna, serta memungkinkan pengguna untuk melakukan reservasi tempat parkir.
 
 
