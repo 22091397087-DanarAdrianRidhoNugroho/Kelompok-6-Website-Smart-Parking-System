@@ -20,6 +20,7 @@ D4 Manajemen Informatika 2022 C
 Dokumen ini bertujuan untuk menyediakan spesifikasi persyaratan web yang lebih rinci untuk proyek Smart Parking System. Tujuan utamanya adalah untuk mengidentifikasi dan menjelaskan persyaratan fungsional dan nonfungsional yang harus dipenuhi oleh sistem.
 
 1.2	Konvensi Dokumen
+
 Konvensi Dokumen diisi dengan istilah dan singkatan yang akan digunakan pada dokumen ini, dan pengertiannya akan dijelaskan dengan bahasa yang sederhana dan bisa dimengerti oleh client.
 
 •	IoT : IoT atau Internet of Things adalah sebuah konsep di mana berbagai perangkat bersensor saling terhubung melalui internet untuk mengumpulkan dan mentransfer data.
@@ -63,6 +64,7 @@ o	Membutuhkan konektivitas internet untuk mentransfer data dan informasi antara 
 
 
 1.5	Refrensi
+
 •	(PDF) IoT -Parking Lot Detection Based on Image Processing | I Made Edy Listartha - Academia.edu
 •	Sistem Informasi Parkir Pintar berbasis Web dan IoT | Prosiding Seminar Nasional Teknik Elektro UIN Sunan Gunung Djati Bandung (uinsgd.ac.id)
 •	https://ejournal.ubhara.ac.id/jeecs/article/download/47/38
@@ -71,10 +73,14 @@ o	Membutuhkan konektivitas internet untuk mentransfer data dan informasi antara 
 •	Smart parking system using IoT - Mokosmart.com
 •	Smart Parking with Prediction of Available Spots: A Proposed Approach (ijsr.net)
 2.	Deskripsi Keseluruhan
+
 2.1	Deskripsi Produk 
+
 Smart Parking System adalah sebuah produk berbasis teknologi yang dirancang untuk mengoptimalkan penggunaan tempat parkir dengan menggunakan Internet of Things (IoT), machine learning, dan webcam. Produk ini menggabungkan teknologi canggih untuk memberikan solusi parkir yang efisien, nyaman, dan terhubung secara digital.
 Dengan menggunakan perangkat keras seperti sensor IoT, kamera webcam, dan sistem komputasi yang terintegrasi, Smart Parking System dapat mendeteksi ketersediaan tempat parkir secara real-time. Data ketersediaan parkir kemudian diproses melalui algoritma machine learning yang cerdas untuk memberikan informasi akurat kepada pengguna.
+
 2.2	Fungsi Produk 
+
 •	Memantau dan mengelola slot parkir yang tersedia.
 •	Menyediakan informasi real-time tentang ketersediaan parkir kepada pengguna.
 •	Mengatur reservasi dan pembayaran parkir.
@@ -84,8 +90,9 @@ Dengan menggunakan perangkat keras seperti sensor IoT, kamera webcam, dan sistem
 <Identifikasi berbagai golongan pengguna yang terkait dengan produk yang dikembangkan>
 
 Tabel 1 Karakteristik Pengguna
+
 Kategori Pengguna	Tugas	Hak Akses ke web	Kemampuan yang harus dimiliki
 Driver	Mencari tempat parkir	Membaca informasi parkir	Menggunakan aplikasi smart parking, melakukan pembayaran
-Parking Attendant	Memantau slot parkir	Mengakses data parkir          	Mengoperasikan sistem smart parking, memberikan bantuan kepada pengemudi
+Parking Attendant	Memantau slot parkir	Mengakses data parkir. Mengoperasikan sistem smart parking, memberikan bantuan kepada pengemudi
 System Administrator	Mengelola pengaturan sistem	Mengakses pengaturan sistem	Memahami konfigurasi sistem smart parking, melakukan pemeliharaan perangkat keras, melatih model machine learning
 
