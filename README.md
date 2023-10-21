@@ -6,8 +6,11 @@ for
 
 Version 1.0 approved
 Prepared by 
+
 < 22091397076 - Albiona Qalbu Shoukhi >
+
 < 22091397077 – Ageng Kurniawan >
+
 < 22091397087 – Danar Adrian  Ridho Nugroho>
 
 
